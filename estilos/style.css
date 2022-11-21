@@ -6,6 +6,14 @@
     lilás: #5f2c82
 */
 
+/*  Typical Device Breakpoints
+    Pequenas telas: até 600px
+    Celular: 360 x 720 px
+    Tablet: 768 x 1024 px
+    Desktop: 1920 x 1080 px
+    Grandes Telas: acima de 1920px
+*/
+
 * {
     font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     padding: 0px;
