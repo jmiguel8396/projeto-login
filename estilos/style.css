@@ -42,7 +42,7 @@ section#login {
 
     background-color: white;
     width: 260px;
-    height: 500px;
+    height: 540px;
     border-radius: 20px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.452);
 
@@ -147,4 +147,26 @@ form > a.botao:hover {
 
 form > a.botao i {
     font-size: 0.8em;
+}
+
+form > a.botao2 {
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    text-align: center;
+    margin: auto;
+    font-size: 1em;
+    font-weight: 900;
+    width: 200px;
+    height: 40px;
+    padding-top: 10px;
+    margin-top: 5px;
+    background-color: white;
+    color: #2d6462;
+    text-decoration: none;
+}
+
+form > a.botao2:hover {
+    color: #2d6462;
+    border-radius: 7px;
+    background-color: #2d646234;
 }
