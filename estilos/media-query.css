@@ -58,5 +58,6 @@ Grandes Telas: acima de 1920px
     
     div#formulario > p {
         font-size: 1em;
+        margin: 20px 0px;
     }
 }
