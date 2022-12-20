@@ -80,7 +80,6 @@ section#login > div#formulario {
     align-items: center;
     width: 270px;
     height: 548px;
-    display: flex;
     background: #fff;
     overflow: hidden;
     border-radius: 20px;
@@ -93,7 +92,6 @@ section#login > div#formulario {
 {
     content: '';
     position: absolute;
-
     width: 200px;
     height: 650px;
     background: linear-gradient(#00ccff,#d400d4);
